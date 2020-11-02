@@ -3,4 +3,4 @@
 These are the assignments for the KAIST CC511 graduate course.
 Some of the assignments are handwritten pdfs, some otheras are coding assignments using Python and Jupyter Lab
 
-<img align="right" width="500" height="500" src="https://github.com/Juju-botu/probability-statistics-assignments/blob/main/imgs/screenshot.png">
+<img align="center" src="https://github.com/Juju-botu/probability-statistics-assignments/blob/main/imgs/screenshot.png">
